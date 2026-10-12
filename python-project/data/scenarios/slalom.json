@@ -1,0 +1,14 @@
+{
+  "name": "Slalom Course",
+  "description": "Navigate a sequence of staggered obstacles without diagonal shortcuts.",
+  "width": 22,
+  "height": 14,
+  "start": [1, 1],
+  "goal": [20, 12],
+  "walls": [
+    [5, 1, 1, 8],
+    [10, 5, 1, 8],
+    [15, 1, 1, 8],
+    [19, 6, 1, 7]
+  ]
+}

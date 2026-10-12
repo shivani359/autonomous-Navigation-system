@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments and local tooling
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+.DS_Store
+
+# Local run outputs (keep sample outputs intentionally committed)
+outputs/runs/*
+!outputs/runs/.gitkeep

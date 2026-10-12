@@ -1,0 +1,13 @@
+{
+  "name": "Warehouse Aisles",
+  "description": "A delivery robot threads through alternating shelf banks in a small warehouse.",
+  "width": 22,
+  "height": 15,
+  "start": [1, 1],
+  "goal": [20, 13],
+  "walls": [
+    [5, 0, 2, 10],
+    [11, 5, 2, 10],
+    [16, 0, 2, 9]
+  ]
+}
